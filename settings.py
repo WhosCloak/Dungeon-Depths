@@ -1,0 +1,4 @@
+# Screen Size
+SCN_SIZE = SCN_WIDTH, SCN_HEIGHT = (320, 180)
+# Tile Size
+TILE_SIZE = TILE_WIDTH, TILE_HEIGHT = (32, 32)
